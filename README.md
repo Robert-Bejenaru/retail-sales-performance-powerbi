@@ -59,7 +59,7 @@ The presentation reports **900 distinct and unique OrderID values** and no blank
 
 ## Output
 
-![Power BI senior management report](../../assets/powerbi-senior-management-report.png)
+![Power BI senior management report](../assets/powerbi-senior-management-report.png)
 
 ## Source Material
 
